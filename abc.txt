@@ -1,0 +1,12 @@
+git init
+git add .
+git status
+git add .A(all files)
+git config --global user.name "xyz"
+git config --global user.email "xyz"
+git commit -m "first progrm"
+git remote add origin https://github.com/engrimranahmed/learning.git
+git push -u origin master
+
+git clone url address
+
